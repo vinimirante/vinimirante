@@ -26,7 +26,7 @@ Tenho 23 anos, sou de São Luís do Maranhão. Gosto e estudo o vasto mundo da p
 
 - Faço parte da equipe de Infraestrutura e Suporte do Grupo Mirante como estagiário. 
 
-- Tenho estudado ReactNative e JavaScript com o intuito de desenvolver apps. 
+- Tenho estudado React Native e JavaScript com o intuito de desenvolver apps. 
 
 - Compartilho nessa minha conta minhas experiências na parte de desenvolvimento em projetos da empresa. Possuo um perfil pessoal que você pode acompanhar mais projetos e estudos. 
 
