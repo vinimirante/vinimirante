@@ -34,5 +34,13 @@ Take a look 👇🏽
 
 [Meu perfil pessoal no github. ](https://github.com/vinisantosn)
 
+<br/>
+
+<p align="center">
+<a href="https://github.com/vinimirante">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinimirante&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinimirante&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
